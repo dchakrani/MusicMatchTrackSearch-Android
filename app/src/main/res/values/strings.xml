@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MusixMatch Track Search</string>
+    <string name="LimitLabel">Limit: </string>
+    <string name="SearchButton">Search</string>
+    <string name="SearchKey" />
+    <string name="SearchKeyHint">Song</string>
+    <string name="setLimit"></string>
+    <string name="SortLabel">Sort By:</string>
+    <string name="ResultsView">Search results</string>
+    <string name="radio_TrackRating">Track rating</string>
+    <string name="radio_ArtistRating">Artist rating</string>
+    <string name="titleTrackLabel">Track:</string>
+    <string name="TitleTrackData">title</string>
+    <string name="TrackArtistLabel">Artist:</string>
+    <string name="TrackArtisteData">Artist</string>
+    <string name="AlbumNameLabel">Album:</string>
+    <string name="AlbumNameData">Album</string>
+    <string name="RelDateLabel">Date:</string>
+    <string name="DateData">date</string>
+</resources>
